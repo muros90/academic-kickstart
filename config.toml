@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = "AIzaSyCjRbS1ozooYrXy3TSbtwwZi5Nw-KBFxM8"
   latitude = "47.378677"
   longitude = "8.552388"
@@ -231,8 +231,23 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "researchgate"
-    icon_pack = "fa"
+    icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Uros_Markovic3"
+    
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0003-2894-4014"
+    
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/user/"
+    
+  [[params.social]]
+    icon = "mendeley"
+    icon_pack = "ai"
+    link = "https://www.mendeley.com/profiles/uros-markovic2/"
     
   [[params.social]]
     icon = "linkedin"
