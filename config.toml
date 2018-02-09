@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "ETH Zürich", url = "https://www.ethz.ch/content/specialinterest/itet/institute-eeh/psl-ee/en.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "markovic@eeh.ee.ethz.ch"
   address = "ETL G 29, ETH Zürich, Physikstrasse 3, 8092 Zürich, Switzerland"
   office_hours = "Monday 10:00 to 12:00 or email for appointment"
