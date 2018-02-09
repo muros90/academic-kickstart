@@ -55,12 +55,12 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "ETH Zurich", url = "" } ]
+  organizations = [ { name = "ETH Zürich", url = "https://www.ethz.ch/content/specialinterest/itet/institute-eeh/psl-ee/en.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "markovic@eeh.ee.ethz.ch"
+  address = "ETL G 29, ETH Zürich, Physikstrasse 3, 8092 Zürich, Switzerland"
   office_hours = "Monday 10:00 to 12:00 or email for appointment"
   phone = "+41 44 632 88 14"
   skype = "urosmarkovic90"
